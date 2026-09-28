@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+truthlens.db
+dataset/WELFake_Dataset.csv
